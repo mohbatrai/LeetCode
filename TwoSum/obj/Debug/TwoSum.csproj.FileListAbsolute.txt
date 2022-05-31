@@ -1,0 +1,14 @@
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe.config
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
+C:\Users\Mohbat\source\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.AssemblyReference.cache
+E:\VS Code\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe.config
+E:\VS Code\repos\TwoSum\TwoSum\bin\Debug\TwoSum.exe
+E:\VS Code\repos\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
+E:\VS Code\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csprojAssemblyReference.cache
+E:\VS Code\repos\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+E:\VS Code\repos\TwoSum\TwoSum\obj\Debug\TwoSum.exe
+E:\VS Code\repos\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
