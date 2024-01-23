@@ -1,0 +1,10 @@
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\obj\Debug\IPTracker.csprojAssemblyReference.cache
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\obj\Debug\IPTracker.csproj.CoreCompileInputs.cache
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\bin\Debug\IPTracker.exe.config
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\bin\Debug\IPTracker.exe
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\bin\Debug\IPTracker.pdb
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\obj\Debug\IPTracker.csproj.CopyComplete
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\obj\Debug\IPTracker.exe
+C:\Users\Maxadmin\source\repos\IPTracker\IPTracker\obj\Debug\IPTracker.pdb
